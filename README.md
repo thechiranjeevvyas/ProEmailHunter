@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="#"><img src="https://madewithlove.org.in/badge.svg"></a>
-<a href="https://x.com/the_cv_xo"><img src="https://img.shields.io/badge/twitter-%40rix4uni-blue.svg"></a>
+<a href="https://x.com/the_cv_xo"><img src="https://img.shields.io/badge/twitter-%40thecv-blue.svg"></a>
 <a href="https://github.com/thechiranjeevvyas/ProEmailHunter/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 <a href="#"><img src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg"></a>
 <a href="https://github.com/thechiranjeevvyas/ProEmailHunter"><img src="https://img.shields.io/badge/github-%40thechiranjeev-orange"></a>
