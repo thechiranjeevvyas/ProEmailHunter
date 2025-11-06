@@ -13,7 +13,8 @@ import (
 	"sync"
 	"time"
 
-	"https://github.com/thechiranjeevvyas/ProEmailHunter/banner"
+	"github.com/thechiranjeevvyas/ProEmailHunter/banner"
+
 )
 
 // ANSI color codes
