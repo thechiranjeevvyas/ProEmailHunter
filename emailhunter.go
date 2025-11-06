@@ -55,7 +55,7 @@ func shouldExclude(link string) bool {
 
 func isValidEmail(email string) bool {
 	// Additional validation to exclude common false positives
-	if strings.Contains(strings.ToLower(email), "example") {
+	if strings.Contains(strings.ToLower(email), "example") { 
 		return false
 	}
 	if strings.Contains(strings.ToLower(email), "email") {
